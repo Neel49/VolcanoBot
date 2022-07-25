@@ -34,4 +34,4 @@ The robot itself is outfitted with it's own collection bin for rock and other ge
 
 ![IMG_0872](https://user-images.githubusercontent.com/63485598/180692184-4133659c-2997-4520-9718-4da1803d2089.JPG)
 
-Now add in C02 sensors, angle sensors, and a whole array of detection devices and you have our VolcanoBot. To get a better understanding check out our overiew pdf, or our 3d model which provides an indept view into how we built the robot. 
+Now add in C02 sensors, angle sensors, and a whole array of detection devices and you have our VolcanoBot. To get a better understanding check out our VolcanoBot Overview.pdf, or our 3d model which provides an indept view into how we built the robot. 
